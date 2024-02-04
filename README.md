@@ -1,6 +1,6 @@
 <h1 align="center">UltraViolet</h1>
 <div align="center">
-	<a href="https://ShadowsIndeedWhisper.github.io/UltraViolet"><img src="https://img.shields.io/badge/docs-website-green.svg" alt="Documentation" /></a>
+	<a href="https://gunshotsoundstudios.github.io/UltraViolet/"><img src="https://img.shields.io/badge/docs-website-green.svg" alt="Documentation" /></a>
 </div>
 
 <div align="center">
