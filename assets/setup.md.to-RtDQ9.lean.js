@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,V as t}from"./chunks/framework.--NMbU3Q.js";const c=JSON.parse('{"title":"Setup","description":"","frontmatter":{},"headers":[],"relativePath":"setup.md","filePath":"setup.md"}'),n={name:"setup.md"},e=t("",12),l=[e];function h(p,r,k,E,o,d){return a(),i("div",null,l)}const y=s(n,[["render",h]]);export{c as __pageData,y as default};
